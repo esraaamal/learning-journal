@@ -1,6 +1,6 @@
 ## growth mindset :+1:
 
-
+![..](https://372832.smushcdn.com/1067402/wp-content/uploads/2020/01/Blog-Jan-9_-Featured.png?lossy=1&strip=1&webp=1)
 
 
 

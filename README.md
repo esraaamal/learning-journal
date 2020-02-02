@@ -6,10 +6,10 @@
 **Alternatively, in a growth mindset, people have an underlying belief that their learning and intelligence can grow with time and experience. When people believe they can become smarter, they realize that their effort has an effect on their success, so they put in extra time, leading to higher achievement**
 
 
-##their are some advaice to encourage me to be one of the  growth mindset pepole
+## their are some advaice to encourage me to be one of the  growth mindset pepole
 - [ ] no giving up
 - [ ] try if you fail ..every success persone has been a failer
-- [ ]no pain no gain 
+- [ ] no pain no gain 
 
 esraa ananzeh
 [my GitHub portfile page](https://github.com/esraaamal)

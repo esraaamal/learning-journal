@@ -1,5 +1,10 @@
 ## growth mindset :+1:
-***lets first see the different between the fixed and growth mindset***
+
+
+
+
+
+***lets first see the differents between the fixed and growth mindset***
 
 **In a fixed mindset, people believe their qualities are fixed traits and therefore cannot change. These people document their intelligence and talents rather than working to develop and improve them. They also believe that talent alone leads to success, and effort is not required.** 
 

@@ -1,7 +1,7 @@
 as a web development we need to download an a text editor that help 
 help me do deal with code
 
-so why What is a text editor is very importent like that?
+so why  a text editor is very importent like that?
 ok ,let me asnswer you about it
 
 A text editor is a piece of software that you download and install on

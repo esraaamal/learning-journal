@@ -3,7 +3,7 @@
 ![my image](https://372832.smushcdn.com/1067402/wp-content/uploads/2020/01/Blog-Jan-9_-Featured.png?lossy=1&strip=1&webp=1)
 
 
-**People who have the passion, even if they fail a lot in their lives
+**The People who have the passion, even if they fail a lot in their lives
 They never give up
 And they always inspired by  succeed people that makes them insist on reaching the top ,unlike the fixed mindset that are seen in the success of people
 Negative energy for their lives and a negative motivation for them

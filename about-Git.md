@@ -1,4 +1,4 @@
-
+# Git
 to identity setting 
 after we install the git 
 we should enter the username and the password of the githubs website
@@ -14,17 +14,17 @@ that allows us to switch the project dirctory
 by this steps we subdirectory that has the repo files
 3-tacking repo files by three steps 
 a-$ get add *.c
-b-$git add lICENSE
+b-$ git add lICENSE
 c-$ git commit -m “any message here”
 
 Cloning command
 to create a copy of git repository from server
 by mension the url with clone command
-$ git clone https://github.com/test
+$ git clone [https://github.com/test](https://github.com/test)
 
 The Life Cycle of File Status
 
 ![..](https://blog.udemy.com/wp-content/uploads/2015/08/image006.png)
 
- &hh
+ 
 

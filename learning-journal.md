@@ -11,9 +11,9 @@ allows you to write and manage text, especially the text that you write
 to build a web site.**
 
 **What features should you look for in a text editor?**
-# I would say some of the most important features are:
- 1.) code completion.
- 2.) syntax highlighting.
+## I would say some of the most important features are:
+ - code completion.
+ - syntax highlighting.
  
 
 # why should you download yet another text editor?

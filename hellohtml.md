@@ -1,11 +1,13 @@
-Html: hyper text markup  languge 
+# Html:
+hyper text markup  languge 
+
 this languge requires some of this browser
-Google chrome or
-Internet explorer or
-Opera or
-Firefox
-Safari
-Edge
+-Google chrome or
+-Internet explorer or
+-Opera or
+-Firefox
+-Safari
+-Edge
 
 some command in Html
 1-Tag 
@@ -29,7 +31,7 @@ cause we write it in the head  "
 
 7-<body>
 8-<nav>
-css
+# css
 if we want to change the style of the web 
 their is many  way one of them 
 by put <style > command inside the head command

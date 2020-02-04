@@ -1,4 +1,4 @@
-# how and why CSS
+# Why CSS
 **it's make your web pages more attractive 
 and  allows you to create rules that specify how the content of
 an element should appear**

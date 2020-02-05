@@ -11,7 +11,7 @@ to solve the problem in hand. This is why creating a
 script is like writing a recipe or manual that allows a
 computer to solve a puzzle one step at a time._
 
-**hint
+**hint**
 ### that the computer doesn't learn how to perform tasks
 it need to fpllow instruction
 
@@ -29,17 +29,17 @@ understand
 create instructions computers can follow 
 computer achieves different types of goals using
 a programmatic approach to problem-solving. 
-Computers are very logical and obedient
+Computers are very logical and obedient**
 
 **see several ways to discover
 what might have gone wrong - programmers call
-this debugging. 
+this debugging. **
 
 **an example
 statements that are required to needs to perform in order to of a function in the JavaScript
 answer a question or perform a perform its task are packaged file. It is called updateMessage () . 
 to create a function give it name and then write the statements we need inside  the curly braces
-known as fun ctiom
+known as fun ctiom**
 
 ![s](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/javascript.jpg)
 ___________________________
@@ -52,7 +52,7 @@ specific element in the page. the area of a box would need (which consists of st
 to know its width and height. When you call the function by its
 If you are going to ask the Pieces of information passed name, those statements will run. 
 
-operators: 
+### operators: 
 
 ASSIGNMENT OPERATORS 
 var color = 'beige'; 

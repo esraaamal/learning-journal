@@ -11,11 +11,12 @@ to solve the problem in hand. This is why creating a
 script is like writing a recipe or manual that allows a
 computer to solve a puzzle one step at a time._
 
-## hint
-that the computer doesn't learn how to perform tasks
+**hint
+### that the computer doesn't learn how to perform tasks
 it need to fpllow instruction
 
-initialization steps:
+
+**initialization steps:
 1: DEFINE THE GOAL 
 2: DESIGN THE SCRIPT 
 3: CODE EACH STEP 

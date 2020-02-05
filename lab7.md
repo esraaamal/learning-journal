@@ -19,7 +19,7 @@ it need to fpllow instruction
 **initialization steps:
 1: DEFINE THE GOAL 
 2: DESIGN THE SCRIPT 
-3: CODE EACH STEP 
+3: CODE EACH STEP **
 
 **Just like learning any new language, you need
 to get to grips with the:
@@ -33,7 +33,7 @@ Computers are very logical and obedient**
 
 **see several ways to discover
 what might have gone wrong - programmers call
-this debugging. **
+this debugging**
 
 **an example
 statements that are required to needs to perform in order to of a function in the JavaScript

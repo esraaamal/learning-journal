@@ -1,4 +1,5 @@
 # For and while loop
+![t](https://www.cs.uic.edu/~jbell/CourseNotes/C_Programming/Whiles.jpg)
 ## Comprision operator evaluation condtion
 
 1-	Equal (==)
